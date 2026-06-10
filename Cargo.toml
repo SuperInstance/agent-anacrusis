@@ -1,4 +1,5 @@
 [package]
+description = "agent-anacrusis"
 repository = "https://github.com/SuperInstance/agent-anacrusis"
 name = "agent-anacrusis"
 version = "0.1.0"
